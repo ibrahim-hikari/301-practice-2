@@ -1,0 +1,19 @@
+header {
+    background-color: black;
+    color: white;
+}
+
+main {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: darkgray;
+    color: black;
+}
+.cards{
+    border: solid;
+    margin: 5px 5px;
+}
